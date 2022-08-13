@@ -27,7 +27,7 @@ body {
 .card {
   background-color: var(--white);
   border-radius: 1.3rem;
-  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.2);
   width: 20rem;
   padding: 1rem;
 }
